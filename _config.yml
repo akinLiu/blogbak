@@ -11,9 +11,9 @@ pygments: true
 title : 阿宽的博客
 tagline: Site Tagline
 author :
-  name : Name Lastname
+  name : akin liu
   email : akuandev@gmail.com
-  github : akinliu.github.com
+  github : akinliu
   twitter : hengxin196
   feedburner : feedname
 
